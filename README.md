@@ -10,3 +10,8 @@ Instead of going to the page and manually counting tags, I wondered if I'd be ab
 
 Though I had never used VBA before, I was aware of its utility and had parsed data extracted from the web before in my university programming classes. 
 Thus, I taught myself how to make my first macro.
+
+## Outcomes ##
+
+<img width="960" alt="TSS Startup Analysis 1" src="https://user-images.githubusercontent.com/85096099/123316462-7109a900-d55f-11eb-8cc1-a0c1849c981a.png">
+<img width="960" alt="TSS Startup Analysis 2" src="https://user-images.githubusercontent.com/85096099/123316471-736c0300-d55f-11eb-86ad-deeac1f875ed.png">
