@@ -13,5 +13,5 @@ Thus, I taught myself how to make my first macro.
 
 ## Outcomes ##
 
-<img width="960" alt="TSS Startup Analysis 1" src="https://user-images.githubusercontent.com/85096099/123316462-7109a900-d55f-11eb-8cc1-a0c1849c981a.png">
-<img width="960" alt="TSS Startup Analysis 2" src="https://user-images.githubusercontent.com/85096099/123316471-736c0300-d55f-11eb-86ad-deeac1f875ed.png">
+![TSS Startup Analysis 1](https://user-images.githubusercontent.com/85096099/123316945-0a38bf80-d560-11eb-9891-19c193925489.png)
+![TSS Startup Analysis 2](https://user-images.githubusercontent.com/85096099/123316964-0dcc4680-d560-11eb-8be8-be151778bd27.png)
